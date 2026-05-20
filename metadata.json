@@ -1,0 +1,6 @@
+{
+  "name": "Ordena Tus Finanzas",
+  "description": "Una aplicación avanzada y amigable para el control, registro y optimización de tus finanzas personales y metas de ahorro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
